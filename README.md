@@ -1,1 +1,2 @@
-C’est une initialisation à la création de WPS, ce dernier permet de renvoyer le message “Hello world”, de faire une multiplication entre deux nombres et renvoyer le résultat et enfin, un exemple de fonction qui renvoie le message “Hello World” sous format JSON.
+C’est une simple manipulation de WPS, ce dernier prend en entrée une géométrie et il renvoie en sortie la surface de la géométrie, son périmètre et le nombre de point qui la compose.
+
